@@ -9,3 +9,11 @@
 
 # Undo-tree save-files
 *.~undo-tree
+
+# added by @sepisoad
+ido.last
+projectile-bookmarks.eld
+transient
+auto-save-list
+eshell
+places
